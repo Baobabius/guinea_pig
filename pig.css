@@ -2,6 +2,8 @@ body {
     height: 100%;
     width: 100%;
     background-image: url("pictures/news.jpg");
+    margin: 0;
+    padding: 0;
 } 
 
 .pigphoto {
@@ -9,5 +11,5 @@ body {
 }
 
 .news {
-    color: aquamarine;
+    color: rgb(134, 177, 162);
 }
